@@ -26,6 +26,7 @@ pluginManagement {
 
 
 //include("m1l1-quickstart")
+//include("m1l2-base")
 //include("m1l3-oop")
 //include("m1l4-dsl")
 //include("m1l5-coroutines")
